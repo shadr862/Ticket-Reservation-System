@@ -1,0 +1,168 @@
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\appsettings.Development.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\appsettings.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Ticket Reservation System API.staticwebassets.endpoints.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Ticket Reservation System API.exe
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Ticket Reservation System API.deps.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Ticket Reservation System API.runtimeconfig.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Ticket Reservation System API.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Ticket Reservation System API.pdb
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.csproj.AssemblyReference.cache
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\rpswa.dswa.cache.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.AssemblyInfoInputs.cache
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.AssemblyInfo.cs
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.csproj.CoreCompileInputs.cache
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.MvcApplicationPartsAssemblyInfo.cs
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.MvcApplicationPartsAssemblyInfo.cache
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\scopedcss\bundle\Ticket Reservation System API.styles.css
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\staticwebassets.build.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\staticwebassets.build.json.cache
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\staticwebassets.development.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket R.FD628143.Up2Date
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\refint\Ticket Reservation System API.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.pdb
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\Ticket Reservation System API.genruntimeconfig.cache
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\obj\Debug\net9.0\ref\Ticket Reservation System API.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Azure.Core.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Azure.Identity.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Humanizer.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Mono.TextTemplating.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.ClientModel.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.CodeDom.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Composition.Convention.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Composition.Hosting.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Composition.Runtime.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Drawing.Common.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Formats.Asn1.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Memory.Data.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Runtime.Caching.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Security.Permissions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Text.Json.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\System.Windows.Extensions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Project\Ticket Reservation System API\Ticket Reservation System API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
