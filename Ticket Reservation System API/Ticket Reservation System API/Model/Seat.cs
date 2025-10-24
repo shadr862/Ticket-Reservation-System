@@ -10,6 +10,6 @@
         public SeatStatus Status { get; set; } = SeatStatus.Available;
         public Guid? TicketId { get; set; }
         public virtual Ticket? Ticket { get; set; }
-        public string SeatNumber { get; set; }
+ 
     }
 }
